@@ -1,7 +1,7 @@
 - 👋 Hi, I’m JY
 - 🌱 I’m currently learning Java
 - 📫 Email:2278735190@qq.com
-
+- 😎 You only live once
 
 <!---
 JYihed/JYihed is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
