@@ -1,6 +1,8 @@
 - 👋 Hi, I’m JY
-- ☕️ I’m currently learning Java
+- ☕️ Java 
 - 📫 Email:2278735190@qq.com
+- 🐧 QQ:2278735190
+- 🌏 WeChat:CJY2278735190
 - 😎 You only live once
 
 <!---
