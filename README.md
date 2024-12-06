@@ -1,6 +1,6 @@
 - 👋 Hi, I’m JY
 - ☕️ Java 
-- 📫 Email:2278735190@qq.com
+- 📫 Email:chenjyhed@qq.com
 - 🐧 QQ:2278735190
 - 🌏 WeChat:CJY2278735190
 - 😎 You only live once
